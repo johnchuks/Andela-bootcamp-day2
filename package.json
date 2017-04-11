@@ -1,0 +1,25 @@
+{
+  "name": "apicall",
+  "version": "1.0.0",
+  "description": "creating a command line application for to make an api call",
+  "main": "API_project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnchuks/Andela-bootcamp-day2.git"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Johnbosco Ohia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnchuks/Andela-bootcamp-day2/issues"
+  },
+  "homepage": "https://github.com/johnchuks/Andela-bootcamp-day2#readme",
+  "dependencies": {
+    "jasmine": "^2.5.3"
+  }
+}
