@@ -22,7 +22,10 @@ var apiKey = '7e8c103c40e74b8dab0164810170903';
 
 			   	var weatherItems = JSON.parse(ipData);
 
+			   	var weatherText = weatherItems.current.condition.text;
+
 			   	console.log("The weather in "+weatherItems.location.name+ " is "+weatherItems.current.temp_c+ " degreesC");
+			   	console.log(weatherText);
 
 
 			   }catch (error) {
