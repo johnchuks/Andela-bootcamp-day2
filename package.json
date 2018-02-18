@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/johnchuks/Andela-bootcamp-day2#readme",
   "dependencies": {
-    "jasmine": "^2.5.3"
+    "jasmine": "^3.0.0"
   }
 }
